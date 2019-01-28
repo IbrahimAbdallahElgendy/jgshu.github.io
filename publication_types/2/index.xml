@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Jiangang Shu</title>
+    <link>https://jgshu.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Jiangang Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2012â€”2018 Jiangang Shu</copyright>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jgshu.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SybSub: Privacy-Preserving Expressive Task Subscription with Sybil Detection in Crowdsourcing</title>
+      <link>https://jgshu.github.io/publication/shu2018sybsub/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2018sybsub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proxy-Free Privacy-Preserving Task Matching with Efficient Revocation in Crowdsourcing</title>
+      <link>https://jgshu.github.io/publication/shu2018proxy/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2018proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-side Privacy-Preserving Task Matching for Spatial Crowdsourcing</title>
+      <link>https://jgshu.github.io/publication/shu2018dual/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2018dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Data Aggregation against False Data Injection Attacks in Fog Computing</title>
+      <link>https://jgshu.github.io/publication/zhang2018privacy/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/zhang2018privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TKSE: Trustworthy Keyword Search over Encrypted Data with Two-side Verifiability via Blockchain</title>
+      <link>https://jgshu.github.io/publication/zhang2018tkse/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/zhang2018tkse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anonymous Privacy-Preserving Task Matching in Crowdsourcing</title>
+      <link>https://jgshu.github.io/publication/shu2018anonymous/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2018anonymous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Analysis of a Large-scale Concurrent Data Anonymous Batch Verification Scheme for Mobile Healthcare Crowd Sensing</title>
+      <link>https://jgshu.github.io/publication/zhang2018security/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/zhang2018security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Task Recommendation Services for Crowdsourcing</title>
+      <link>https://jgshu.github.io/publication/shu2018privacy/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2018privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling personalized search over encrypted outsourced data with efficiency improvement</title>
+      <link>https://jgshu.github.io/publication/fu2016enabling/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/fu2016enabling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-preserving smart similarity search based on simhash over encrypted data in cloud computing</title>
+      <link>https://jgshu.github.io/publication/fu2015privacy/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/fu2015privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>利用文本鲁棒特征的零知识水印安全检测方案</title>
+      <link>https://jgshu.github.io/publication/%E4%BB%98%E7%AB%A0%E6%9D%B02015%E5%88%A9%E7%94%A8/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/%E4%BB%98%E7%AB%A0%E6%9D%B02015%E5%88%A9%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving efficient cloud search services: multi-keyword ranked search over encrypted cloud data supporting parallel computing</title>
+      <link>https://jgshu.github.io/publication/fu2015achieving/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/fu2015achieving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart cloud search services: verifiable keyword-based semantic search over encrypted cloud data</title>
+      <link>https://jgshu.github.io/publication/fu2014smart/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/fu2014smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Keyword Search Scheme in Encrypted Cloud Computing Environment</title>
+      <link>https://jgshu.github.io/publication/shu2014efficient-copy/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2014efficient-copy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

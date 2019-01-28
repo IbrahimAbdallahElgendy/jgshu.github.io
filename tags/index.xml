@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jiangang Shu</title>
+    <link>https://jgshu.github.io/tags/</link>
+    <description>Recent content in Tags on Jiangang Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2012â€”2018 Jiangang Shu</copyright>
+    <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jgshu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inner Core Boundary</title>
+      <link>https://jgshu.github.io/tags/Inner-Core-Boundary/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/tags/Inner-Core-Boundary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mantle Discontinuities</title>
+      <link>https://jgshu.github.io/tags/Mantle-Discontinuities/</link>
+      <pubDate>Thu, 16 Aug 2018 10:45:14 -0400</pubDate>
+      
+      <guid>https://jgshu.github.io/tags/Mantle-Discontinuities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear Tests</title>
+      <link>https://jgshu.github.io/tags/Nuclear-Tests/</link>
+      <pubDate>Sun, 29 Apr 2018 21:03:21 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/tags/Nuclear-Tests/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

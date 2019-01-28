@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Jiangang Shu</title>
+    <link>https://jgshu.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Jiangang Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2012â€”2018 Jiangang Shu</copyright>
+    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jgshu.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SybMatch: Sybil Detection for Privacy-Preserving Task Matching in Crowdsourcing</title>
+      <link>https://jgshu.github.io/publication/shu2018sybmatch/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2018sybmatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Task Recommendation in Crowdsourcing</title>
+      <link>https://jgshu.github.io/publication/shu2016secure/</link>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/shu2016secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Effective Search Scheme Based on Semantic Tree Over Encrypted Cloud Data Supporting Verifiability</title>
+      <link>https://jgshu.github.io/publication/fu2014effective/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/fu2014effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic keyword search based on trie over encrypted cloud data</title>
+      <link>https://jgshu.github.io/publication/fu2014semantic/</link>
+      <pubDate>Tue, 03 Jun 2014 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/publication/fu2014semantic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jiangang Shu</title>
+    <link>https://jgshu.github.io/home/</link>
+    <description>Recent content in Homes on Jiangang Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2012â€”2018 Jiangang Shu</copyright>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jgshu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jgshu.github.io/home/about/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/home/about/</guid>
+      <description>I am currently a Postdoctoral Fellow in the Department of Computer Science, City University of Hong Kong (CityU). My supervisor is Prof. Xiaohua Jia.
+I obtained Ph.D. degree in Computer Science from City University of Hong Kong in Feb., 2019., M.Eng. degree in Computer Science and Technology, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science &amp;amp; Technology in 2015 and 2012, respectively. From Feb. 2018 to Aug.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://jgshu.github.io/home/publications/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching Experiences</title>
+      <link>https://jgshu.github.io/home/teaching/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/home/teaching/</guid>
+      <description> City University of Hong Kong  CS1102: Introduction to Computer Studies, Teaching Assistant, Semester A, 2017&amp;frasl;2018 CS1102: Introduction to Computer Studies, Teaching Assistant, Semester B, 2016&amp;frasl;2017 CS1102: Introduction to Computer Studies, Tutor, Semester A, 2016&amp;frasl;2017 CS1102: Introduction to Computer Studies, Teaching Assistant, Semester B, 2015&amp;frasl;2016 CS1102: Introduction to Computer Studies, Teaching Assistant, Semester A, 2015&amp;frasl;2016    </description>
+    </item>
+    
+    <item>
+      <title>Professional Services</title>
+      <link>https://jgshu.github.io/home/services/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/home/services/</guid>
+      <description> Journal Reviewer  IEEE Transactions on Information Forensics and Security IEEE Transactions on Services Computing IEEE Transactions on Industrial Informatics IEEE Access Wireless Communications &amp;amp; Mobile Computing International Journal of Distributed Sensor Networks  Conference Reviewer  EuroS&amp;amp;P 2019, ICCCN 2017, Globecom 2016, IPCCC 2016    </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jgshu.github.io/home/contact/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

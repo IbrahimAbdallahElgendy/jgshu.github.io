@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Jiangang Shu</title>
+    <link>https://jgshu.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jiangang Shu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2012â€”2018 Jiangang Shu</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://jgshu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collaspe and Earthquake swarm after North Korea&#39;s 2017 nuclear test</title>
+      <link>https://jgshu.github.io/talk/NKNT2017-2018-iggcas/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/talk/NKNT2017-2018-iggcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-scale Structure of the Earth&#39;s Inner Core Boundary and Aftershocks of North Korea&#39;s 2017 Nuclear Test</title>
+      <link>https://jgshu.github.io/talk/ICB-and-NKNT-2018/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/talk/ICB-and-NKNT-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismological evidence for a localized mushy zone at the Earth&#39;s inner core boundary</title>
+      <link>https://jgshu.github.io/talk/mushy-ICB-2018-iggcas/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/talk/mushy-ICB-2018-iggcas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-scale Structure of the Earth&#39;s Inner Core Boundary and Aftershocks of North Korea&#39;s 2017 Nuclear Test</title>
+      <link>https://jgshu.github.io/talk/phd-thesis-defense/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/talk/phd-thesis-defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismological evidence for a localized mushy zone at the Earth&#39;s inner core boundary</title>
+      <link>https://jgshu.github.io/talk/mushy-ICB-CGU-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/talk/mushy-ICB-CGU-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting started with GMT in 60 minutes</title>
+      <link>https://jgshu.github.io/talk/GMT-EQHB-2016/</link>
+      <pubDate>Wed, 21 Sep 2016 09:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/talk/GMT-EQHB-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic stduy on the properties of the Earth&#39;s inner core boundary</title>
+      <link>https://jgshu.github.io/talk/ICB-CENC-2016/</link>
+      <pubDate>Thu, 30 Jun 2016 09:00:00 +0800</pubDate>
+      
+      <guid>https://jgshu.github.io/talk/ICB-CENC-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
